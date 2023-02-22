@@ -1,4 +1,4 @@
-riskThreshold: 50
+riskThreshold: 75
 automatedReleaseApproved: true
 useGithubEvents: true
 ignoredFiles:
